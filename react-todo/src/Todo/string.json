@@ -1,0 +1,11 @@
+{
+  "pivot": {
+    "tasks": "Tasks",
+    "_tasks.comment": "For task tab",
+    "taskForm": "Task Form",
+    "_taskForm.comment": "For task form tab",
+    "completedTask": "Completed Task",
+    "_completedTask.comment": "For completed task tab"
+  },
+  "ConfirmDeleteTask": "Are you sure, you want to delete Task ?"
+}
